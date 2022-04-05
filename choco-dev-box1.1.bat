@@ -80,7 +80,7 @@ choco install - y fiddler4
 choco install postman -y
 choco install insomnia-rest-api-client -y
 choco install wireshark -y
-choco install burp-suite-free-edition-y
+choco install burp-suite-free-edition -y
 choco install zap -y
 
 
