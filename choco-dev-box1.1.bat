@@ -121,7 +121,7 @@ choco install -y imagemagick.app
 choco install -y paint.net
 choco install -y irfanview
 choco install -y greenshot 
-choco install -y GoogleChrome
+choco install -y GoogleChrome # choco install googlechrome --ignore-checksums
 choco install -y ccleaner
 choco install -y spotify
 choco install powertoys -y
